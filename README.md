@@ -55,13 +55,6 @@ source('src/Optimising_Marketing_Strategies.R')
 
 ```
 
-### 3️⃣ Run Analysis:
-```sh
-
-source('src/MA2405_GROUP_PROJECT.R')
-
-```
-
 📈 Key Visualizations
 - 📊 Feature Importance from Random Forest
 - 🌲 Decision Tree Visual Representation
