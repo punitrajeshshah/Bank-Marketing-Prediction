@@ -14,13 +14,13 @@ Bank-Marketing-Prediction/
 │   └── bank-additional-full.csv  # Dataset 
 │
 ├── notebooks/  
-│   └── Optimising_Marketing_Strategies.docx   # R Markdown docx version of the script
+│   └── Optimising_Marketing_Strategies.pdf   # R Markdown docx version of the script
 │
 ├── src/  
 │   └── Optimising_Marketing_Strategies.R  # Main R script  
 │  
 ├── reports/  
-│   └── Bank-Marketing-Prediction.docx  # Final Report  
+│   └── Bank-Marketing-Prediction.pdf  # Final Report  
 
 ```
 
